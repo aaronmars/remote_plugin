@@ -1,3 +1,4 @@
+// Require "FS"
 require('fs');
 
 // Read the image
