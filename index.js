@@ -1,3 +1,9 @@
+/**
+ *
+ * This is the remote plugin
+ *
+ */
+
 // Require "FS"
 require('fs');
 
